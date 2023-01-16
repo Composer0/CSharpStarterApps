@@ -1,0 +1,81 @@
+﻿body, html {
+    height: 100%;
+}
+
+body {
+    background: #cac0ae; /* for old browsers */
+    background: -webkit-linear-gradient(to right, #cac0ae, #beb8c7); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cac0ae, #beb8c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: #0d0d0d;
+    font-family: roboto, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h1 {
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+main {
+    padding-top: 6rem;
+}
+
+
+/*----------- Loan Form Styles ---------*/
+.loanForm {
+    background-color: rgb(233,231,231);
+}
+
+.loanForm input {
+    width: 100%;
+    padding: .5rem;
+}
+
+.loanForm button {
+    float: right;
+}
+
+#paymentTitle {
+    text-align: center;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
+
+.btn {
+    background-color: #ffffff;
+}
+
+.btn-cfOrange {
+    color: #2b404f;
+    border: 2px solid #ff993b;
+    transition: all .2s ease-in-out;
+}
+
+.btn-cfOrange:hover {
+    background-color: #ff993b;
+    color: #212121;
+}
+
+
+td {
+    color: lightblue;
+}
+
+td[data-color-code='fizz'] {
+    color: orangered;
+}
+
+td[data-color-code='buzz'] {
+    color: yellow;
+}
+
+td[data-color-code='fizzbuzz'] {
+    color: springgreen;
+}

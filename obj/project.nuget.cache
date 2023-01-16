@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n/jx8FUSsOEKtgSj4fTnLNBhLx6JUk/LYnpcbxxJRIVF4OdBlg4Txevm0+8ftEBkjoHRWZb79ZFNubkkR8onXw==",
+  "dgSpecHash": "fq8n3V6lL2AV08z4XpSJpkP44865k8I8Kb33UCLAiCJAQ33SX7j5AW0pIygFnbdunesrY1H4XASDEhfKuwBFSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\compo\\Desktop\\CSharpStarterApps\\CSharpStarterApps.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\compo\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.17\\microsoft.codeanalysis.razor.5.0.17.nupkg.sha512",
     "C:\\Users\\compo\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
     "C:\\Users\\compo\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\compo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\compo\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\compo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\compo\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
